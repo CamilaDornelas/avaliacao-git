@@ -29,6 +29,7 @@ const textContainer = document.getElementById('textContainer');
 let messageCount = 0; // Um contador para numerar as mensagens
 
 // Adiciona um "ouvinte de eventos" que dispara uma função ao ser clicado
+// Adicionando comentario qualquer 
 addTextBtn.addEventListener('click', function() {
     messageCount++; // Incrementa o contador
 
@@ -44,3 +45,19 @@ addTextBtn.addEventListener('click', function() {
     // Adiciona o novo parágrafo como um "filho" do contêiner de texto
     textContainer.appendChild(newParagraph);
 });
+
+//MINHA ADIÇÃO:
+// imprime números e diz se são pares ou ímpares
+for (let i = 1; i <= 10; i++) {
+  console.log("O número: " + i);
+
+  if (i % 2 === 0) {
+    console.log(i + " é par");
+  } else {
+    console.log(i + " é ímpar");
+  }
+
+}
+
+console.log("Fim");
+
