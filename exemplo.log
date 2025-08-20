@@ -1,0 +1,45 @@
+commit 46788f6368ec2a0dd931458e2fa42bf26b1cdb2c
+Merge: 0eedcd4 54b75a1
+Author: CamilaDornelas <cmmdornelas@gmail.com>
+Date:   Wed Aug 20 15:23:28 2025 -0300
+
+    adicionando meu nome no title
+
+commit 0eedcd4a4467a847b7e4970c2c1f95d867c43581
+Author: CamilaDornelas <cmmdornelas@gmail.com>
+Date:   Wed Aug 20 15:20:50 2025 -0300
+
+    adicionando meu nome completo no title no index
+
+commit 54b75a16d899f9913f8487b0714da886b41ccaed
+Merge: c8e1de3 b4d6d0a
+Author: camila <cmmdornelas@gmail.com>
+Date:   Wed Aug 20 15:18:42 2025 -0300
+
+    Merge #1 alteracao-02
+    
+    add comentario e estrutura de repeticao
+
+commit b4d6d0a00b228ea04d1470ff0db286204fa0af22
+Author: CamilaDornelas <cmmdornelas@gmail.com>
+Date:   Wed Aug 20 15:16:10 2025 -0300
+
+    add comentario e estrutura de repeticao
+
+commit c8e1de3803c6be2ac41475f1e7e33266e814ee44
+Author: CamilaDornelas <cmmdornelas@gmail.com>
+Date:   Wed Aug 20 14:58:54 2025 -0300
+
+    ajustando o index
+
+commit 3ea1152672161faa5c47dd72c5631a761c327f8f
+Author: CamilaDornelas <cmmdornelas@gmail.com>
+Date:   Wed Aug 20 14:56:46 2025 -0300
+
+    adicionando o codigo
+
+commit 4652c96aa8e66a1496c2c40b9903952dbf436270
+Author: CamilaDornelas <cmmdornelas@gmail.com>
+Date:   Wed Aug 20 14:53:34 2025 -0300
+
+    adicionando pastas
